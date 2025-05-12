@@ -12,6 +12,12 @@ A implementação é feita com **Python orientado a objetos**, organizando o có
 - Adição e execução de múltiplos processos com tempos distintos.
 - Saída clara e passo a passo da execução de cada processo.
 - Código modular e extensível para outros algoritmos de escalonamento.
+- Entradas do usuário via terminal:
+    - tempo do quantum;
+    - quantidade de execuções; 
+    - --random para gerar valores aleatórios de processos;
+- Exibição de média de tempo de execução.
+- Interrupção do programa.
 
 ---
 

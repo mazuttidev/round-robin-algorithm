@@ -1,4 +1,4 @@
-from simulador.simulador import simular
+from simulador.simulador import main
 
 if __name__ == "__main__":
-    simular()
+    main()
