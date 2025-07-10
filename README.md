@@ -29,6 +29,6 @@ A implementação é feita com **Python orientado a objetos**, organizando o có
 ### Executando a simulação:
 
 ```bash
-git clone https://github.com/seu-usuario/round_robin_simulador.git
+git clone https://github.com/mazuttidev/round_robin_simulador.git
 cd round_robin_simulador
 python main.py
